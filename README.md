@@ -15,7 +15,7 @@
 I work across the full stack — Flutter on the client, NestJS + MongoDB + Redis on the server, Firebase and AWS S3 for cloud services. I don't hand off backend work; I own the whole product.
 
 ### What I build
-- Marketplace & vendor platforms (Bistm, Bistm Business — 50K+ downloads)
+- Marketplace & vendor platforms (Broccole, Bistm, Bistm Business — 50K+ downloads)
 - Kids streaming & educational apps (Broccole — 35% MAU growth)
 - E-commerce apps with real-time order tracking
 - Stock trading apps with ML price predictions
